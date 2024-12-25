@@ -1,6 +1,3 @@
-Here’s a refined version of the **README.md** for your **Object Detector for Blind People** project:
-
-```markdown
 # 👁️‍🗨️ Object Detector for Blind People
 
 **Object Detector for Blind People** is a Python-based tool designed to assist visually impaired individuals by detecting objects in their surroundings and providing audio feedback in real-time.
